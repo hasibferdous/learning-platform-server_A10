@@ -1,0 +1,136 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_enrolled": 1488,
+      "title": "Data Structure and Algorithm",
+      "price": 59,
+      "instructor": {
+        "name": "Jimmy Smith",
+        "published_date": "2021-07-04",
+        "img": "https://miro.medium.com/max/720/1*8P8zjSGRyKrVewWVr05aXQ.png"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://miro.medium.com/max/720/1*8P8zjSGRyKrVewWVr05aXQ.png",
+      "details": "Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way. This tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 1278,
+      "title": "Database Management System",
+      "price": 67,
+      "instructor": {
+        "name": "Jack Dane",
+        "published_date": "2020-01-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://static.javatpoint.com/dbms/images/dbms-tutorial.jpg",
+      "image_url": "https://static.javatpoint.com/dbms/images/dbms-tutorial.jpg",
+      "details": "DBMS Tutorial provides basic and advanced concepts of Database. Our DBMS Tutorial is designed for beginners and professionals both.Database management system is software that is used to manage the database. Our DBMS Tutorial includes all topics of DBMS such as introduction, ER model, keys, relational model, join operation, SQL, functional dependency, transaction, concurrency control, etc."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_enrolled": 2330,
+      "title": "Operating System",
+      "price": 46,
+      "instructor": {
+        "name": "Mark Wood",
+        "published_date": "2022-02-03",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/1952/course_1952_image.png",
+      "image_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/1952/course_1952_image.png",
+      "details": "An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers. An operating system is software that enables applications to interact with a computer's hardware. The software that contains the core components of the operating system is called the kernel. The primary purposes of an Operating System are to enable applications (spftwares) to interact with a computer's hardware and to manage a system's hardware and software resources. Some popular Operating Systems include Linux Operating System, Windows Operating System, VMS, OS/400, AIX, z/OS, etc. Today, Operating systems is found almost in every device like mobile phones, personal computers, mainframe computers, automobiles, TV, Toys etc."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "01",
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_enrolled": 2345,
+      "title": "Computer Networking",
+      "price": 55,
+      "instructor": {
+        "name": "Chris Smith",
+        "published_date": "2020-11-13",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://static.javatpoint.com/tutorial/computer-network/images/computer-network-tutorial.png",
+      "image_url": "https://static.javatpoint.com/tutorial/computer-network/images/computer-network-tutorial.png",
+      "details": "Computer Network tutorial provides basic and advanced concepts of Data Communication & Networks (DCN). Our Computer Networking Tutorial is designed for beginners and professionals. Our Computer Network tutorial includes all topics of Computer Network such as introduction, features, types of computer network, architecture, hardware, software, internet, intranet, website, LAN, WAN, etc."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 1980,
+      "title": "Programming with C",
+      "price": 50,
+      "instructor": {
+        "name": "Sam Johnson",
+        "published_date": "2022-08-02",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.tutorialspoint.com/cprogramming/images/c-programming.jpg",
+      "image_url": "https://www.tutorialspoint.com/cprogramming/images/c-programming.jpg",
+      "details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 1780,
+      "title": "Object Oriented Programming",
+      "price":44,
+      "instructor": {
+        "name": "Jack Curran",
+        "published_date": "2022-09-15",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://static.javatpoint.com/core/images/what-is-object-oriented-programming.png",
+      "image_url": "https://static.javatpoint.com/core/images/what-is-object-oriented-programming.png",
+      "details": "The word object-oriented is the combination of two words i.e. object and oriented. The dictionary meaning of the object is an article or entity that exists in the real world. The meaning of oriented is interested in a particular kind of thing or entity. In layman's terms, it is a programming pattern that rounds around an object or entity are called object-oriented programming."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "category_id": "01",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_enrolled": 1145,
+      "title": "Machine Learning",
+      "price": 54,
+      "instructor": {
+        "name": "Rojer Smith",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://static.javatpoint.com/tutorial/machine-learning/images/machine-learning-logo.png",
+      "image_url": "https://static.javatpoint.com/tutorial/machine-learning/images/machine-learning-logo.png",
+      "details": "Machine Learning tutorial provides basic and advanced concepts of machine learning. Our machine learning tutorial is designed for students and working professionals. Machine learning is a growing technology which enables computers to learn automatically from past data. Machine learning uses various algorithms for building mathematical models and making predictions using historical data or information. Currently, it is being used for various tasks such as image recognition, speech recognition, email filtering, Facebook auto-tagging, recommender system, and many more."
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "category_id": "01",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "total_enrolled": 2111,
+      "title": "Discrete Mathematics",
+      "price": 61,
+      "instructor": {
+        "name": "Albert Z",
+        "published_date": "2021-02-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://static.javatpoint.com/tutorial/dms/images/discrete-mathematics-tutorial.png",
+      "image_url": "https://static.javatpoint.com/tutorial/dms/images/discrete-mathematics-tutorial.png",
+      "details": "Discrete mathematics Tutorial provides basic and advanced concepts of Discrete mathematics. Our Discrete mathematics Structure Tutorial is designed for beginners and professionals both. Discrete mathematics is the branch of mathematics dealing with objects that can consider only distinct, separated values. This tutorial includes the fundamental concepts of Sets, Relations and Functions, Mathematical Logic, Group theory, Counting Theory, Probability, Mathematical Induction, and Recurrence Relations, Graph Theory, Trees and Boolean Algebra."
+    }
+
+
+  ]

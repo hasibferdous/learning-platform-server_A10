@@ -2,26 +2,8 @@
     {
       "id": "01",
       "name": "Computer Science"
-    },
-    {
-      "id": "02",
-      "name": "Information Technology"
-    },
-    {
-      "id": "03",
-      "name": "Programming Languages"
-    },
-    {
-      "id": "04",
-      "name": "Web Technology"
-    },
-    {
-      "id": "05",
-      "name": "Physics"
-    },
-    {
-      "id": "06",
-      "name": "Biology"
     }
+
+
 
   ]
