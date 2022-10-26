@@ -9,9 +9,9 @@
       "instructor": {
         "name": "Jimmy Smith",
         "published_date": "2021-07-04",
-        "img": "https://miro.medium.com/max/720/1*8P8zjSGRyKrVewWVr05aXQ.png"
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "thumbnail_url": "https://miro.medium.com/max/720/1*8P8zjSGRyKrVewWVr05aXQ.png",
       "image_url": "https://miro.medium.com/max/720/1*8P8zjSGRyKrVewWVr05aXQ.png",
       "details": "Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way. This tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures."
     },
@@ -64,7 +64,6 @@
       "image_url": "https://static.javatpoint.com/tutorial/computer-network/images/computer-network-tutorial.png",
       "details": "Computer Network tutorial provides basic and advanced concepts of Data Communication & Networks (DCN). Our Computer Networking Tutorial is designed for beginners and professionals. Our Computer Network tutorial includes all topics of Computer Network such as introduction, features, types of computer network, architecture, hardware, software, internet, intranet, website, LAN, WAN, etc."
     },
-
     {
       "_id": "11468ed61aee84de492a8b04158a22f9",
       "category_id": "01",
@@ -97,7 +96,6 @@
       "image_url": "https://static.javatpoint.com/core/images/what-is-object-oriented-programming.png",
       "details": "The word object-oriented is the combination of two words i.e. object and oriented. The dictionary meaning of the object is an article or entity that exists in the real world. The meaning of oriented is interested in a particular kind of thing or entity. In layman's terms, it is a programming pattern that rounds around an object or entity are called object-oriented programming."
     },
-
     {
       "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
       "category_id": "01",
@@ -114,7 +112,6 @@
       "image_url": "https://static.javatpoint.com/tutorial/machine-learning/images/machine-learning-logo.png",
       "details": "Machine Learning tutorial provides basic and advanced concepts of machine learning. Our machine learning tutorial is designed for students and working professionals. Machine learning is a growing technology which enables computers to learn automatically from past data. Machine learning uses various algorithms for building mathematical models and making predictions using historical data or information. Currently, it is being used for various tasks such as image recognition, speech recognition, email filtering, Facebook auto-tagging, recommender system, and many more."
     },
-
     {
       "_id": "a713ee936ff5574273f0f769f5c5b20e",
       "category_id": "01",
@@ -131,6 +128,4 @@
       "image_url": "https://static.javatpoint.com/tutorial/dms/images/discrete-mathematics-tutorial.png",
       "details": "Discrete mathematics Tutorial provides basic and advanced concepts of Discrete mathematics. Our Discrete mathematics Structure Tutorial is designed for beginners and professionals both. Discrete mathematics is the branch of mathematics dealing with objects that can consider only distinct, separated values. This tutorial includes the fundamental concepts of Sets, Relations and Functions, Mathematical Logic, Group theory, Counting Theory, Probability, Mathematical Induction, and Recurrence Relations, Graph Theory, Trees and Boolean Algebra."
     }
-
-
-  ]
+]
